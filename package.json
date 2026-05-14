@@ -4,7 +4,7 @@
   "description": "Legacy Next.js rental search dashboard portfolio demo.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "npm test --prefix roam-rental-dashboard-app"
   },
   "author": "",
   "license": "ISC"
