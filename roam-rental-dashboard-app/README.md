@@ -1,4 +1,4 @@
-# Next.js Rental Search Dashboard
+# Roam Rental Dashboard
 
 This folder contains the runnable Next.js application for the rental search dashboard demo.
 

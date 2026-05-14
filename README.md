@@ -7,7 +7,7 @@ A legacy Next.js + TypeScript portfolio demo for searching and previewing rental
 The application lives in:
 
 ```text
-outdoorsy-assessment/
+roam-rental-dashboard-app/
 ```
 
 ## What it shows
@@ -30,7 +30,7 @@ outdoorsy-assessment/
 ## Run locally
 
 ```bash
-cd outdoorsy-assessment
+cd roam-rental-dashboard-app
 npm install
 npm run dev
 ```
